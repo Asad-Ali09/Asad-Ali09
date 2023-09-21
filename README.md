@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Asad-Ali09/Asad-Ali09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! I'm Asad Shafiq, a passionate Software Engineering student with a flair for Web development and a strong foundation in Object-Oriented Programming and Data Structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 I’m currently learning TypeScript and NEXT.js
+- 🎓 Studying towards a Bachelor of Software Engineering.
+- 📚 Currently in my third semester.
+- 🌟 Dedicated to continuous learning and enhancing my skills.
+- ✨ Proficient in ReactJS, ExpressJS and C++ Programming.
+- ⚡ Excited about modern web development.
+
+## Skills
+- Front-end Development: HTML, CSS, JavaScript, React, Redux
+- Back-end: NodeJS, ExpressJS
+- Other Programming Languages: C++, Python
+- Database: MongoDB
+- Version Control: Git
+
+## Connect with Me
+- 🌐 [Portfolio](https://asad-ali.vercel.app/) 
+- 📧 [Email](mailto:masadali5433@gmail.com)
