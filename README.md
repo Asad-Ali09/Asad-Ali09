@@ -1,21 +1,20 @@
 ### Hi there 👋
 
 
-Hello! I'm Asad Shafiq, a passionate Software Engineering student with a flair for Web development and a strong foundation in Object-Oriented Programming and Data Structures.
+Hello! I'm Asad Shafiq, a passionate Software Engineering student with a flair for Web development and a strong foundation in Data Structures.
 
 ## About Me
-- 🌱 I’m currently learning TypeScript and NEXT.js
 - 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my third semester.
+- 📚 Currently in my fourth semester.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
-- ✨ Proficient in ReactJS, ExpressJS and C++ Programming.
+- ✨ Proficient in TypeScript, MERN and C++ Programming.
 - ⚡ Excited about modern web development.
 
 ## Skills
-- Front-end Development: HTML, CSS, JavaScript, React, Redux
+- Front-end Development: HTML, CSS, JavaScript, React, NEXT, Redux
 - Back-end: NodeJS, ExpressJS
-- Other Programming Languages: C++, Python
-- Database: MongoDB
+- Other Programming Languages: C++, Python, TypeScript
+- Database: MongoDB, Ms SQL
 - Version Control: Git
 
 ## Connect with Me
